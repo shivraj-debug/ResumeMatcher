@@ -33,8 +33,8 @@ This project matches uploaded resumes to job descriptions using **Semantic Simil
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/vermavarsha/resume-parser-job-matcherr.git
-cd resume-parser-job-matcher
+git clone https://github.com/shivraj-debug/ResumeMatcher.git
+cd ResumeMatcher
 
 # 2. Create virtual environment
 python -m venv venv
